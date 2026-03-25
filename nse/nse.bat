@@ -1,0 +1,1 @@
+python "C:\Users\sandeep\Downloads\tweets\nse_briefing_emailer.py"
